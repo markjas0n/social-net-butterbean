@@ -6,15 +6,15 @@ Socialz is a backend API for a social networking application, built using Node.j
 
 ## Table of Contents
 
-- Installation
-- Usage
-- API Routes
-- User Routes
-- Thought Routes
-- Seed Data
-- Technologies Used
-- License
-- Questions
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Routes](#api-routes)
+- [User Routes](#user-routes)
+- [Thought Routes](#thought-routes)
+- [Seed Data](#seed-data)
+- [Technologies Used](#technologies-used)
+- [License](#license)
+- [Questions and Contacts](#questions-and-contacts)
 
 ## Installation
 
