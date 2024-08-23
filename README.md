@@ -88,7 +88,8 @@ If you want to populate the database with some initial data for testing:
 
 ## Walkthrough Video
 This video demonstrates the functionality of the API Routes. 
-[Click ME](https://youtu.be/Iufg3Xx3guY?si=7xa0M76B3zJKqz1Q)
+
+Click [HERE](https://youtu.be/Iufg3Xx3guY?si=7xa0M76B3zJKqz1Q)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/markjas0n/social-net-butterbean/blob/main/license) file for details.
@@ -97,4 +98,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 For any questions about this project, feel free to contact:
 - **Name**: Mark Jason
 - **Email**: markjas0n@icloud.com
-- **Github**: markjas0n
+- **Github**: https://github.com/markjas0n
