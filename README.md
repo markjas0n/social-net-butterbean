@@ -87,12 +87,12 @@ If you want to populate the database with some initial data for testing:
 - Moment.js: Library for parsing, validating, manipulating, and formatting dates
 
 ## Walkthrough Video
-This video demonstrates the functionality of the API Routes. 
+The video below demonstrates the functionality of the API Routes. 
 
-Click [HERE](https://youtu.be/Iufg3Xx3guY?si=7xa0M76B3zJKqz1Q)
+Click -------------------> [⌖](https://youtu.be/Iufg3Xx3guY?si=7xa0M76B3zJKqz1Q)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/markjas0n/social-net-butterbean/blob/main/license) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/markjas0n⌘/social-net-butterbean/blob/main/license) file for details.
 
 ## Questions and Contacts
 For any questions about this project, feel free to contact:
