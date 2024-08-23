@@ -13,6 +13,7 @@ Socialz is a backend API for a social networking application, built using Node.j
 - [Thought Routes](#thought-routes)
 - [Seed Data](#seed-data)
 - [Technologies Used](#technologies-used)
+- [Walkthrough Video](#walkthrough-video)
 - [License](#license)
 - [Questions and Contacts](#questions-and-contacts)
 
@@ -84,6 +85,10 @@ If you want to populate the database with some initial data for testing:
 - MongoDB: NoSQL database
 - Mongoose: ODM for MongoDB
 - Moment.js: Library for parsing, validating, manipulating, and formatting dates
+
+## Walkthrough Video
+This video demonstrates the functionality of the API Routes. 
+[Click ME](https://youtu.be/Iufg3Xx3guY?si=7xa0M76B3zJKqz1Q)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/markjas0n/social-net-butterbean/blob/main/license) file for details.
