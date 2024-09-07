@@ -89,6 +89,8 @@ If you want to populate the database with some initial data for testing:
 ## Walkthrough Video
 
 ![testing/demonstration gif](assets/images/api.gif)
+[![Watch the video](assets/images/api.gif)](https://youtu.be/Iufg3Xx3guY?si=7xa0M76B3zJKqz1Q))
+
 
 The video below demonstrates the functionality of the API Routes. 
 
